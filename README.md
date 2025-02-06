@@ -7,7 +7,7 @@ Este é um aplicativo simples de console em C# para gerenciamento de clientes. E
 ✅ Salvar e carregar os dados automaticamente usando serialização binária
 ❌ Não possue validação de dados
 
-Os dados são armazenados localmente no arquivo clientes.davi.
+Os dados são armazenados localmente no arquivo clientes.clients.
 
 Como usar
 Execute o programa
