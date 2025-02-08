@@ -13,4 +13,7 @@ Como usar
 Execute o programa
 Escolha uma opção do menu (Listar, Adicionar, Remover ou Sair)
 Os clientes são armazenados automaticamente para uso futuro
-💻 Feito para estudos e prática de manipulação de arquivos em C#! 🚀
+Feito para estudos e prática de manipulação de arquivos em C#
+
+
+feito com os aprendizados do curso https://www.udemy.com/course/csharp-para-iniciantes/learn/lecture/22199374?start=0#questions
